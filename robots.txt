@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://deropedi.github.io/sitemap.html.gz
+Sitemap: https://deropedi.github.io/app/sitemap.html.gz
+Sitemap: https://deropedi.github.io/assets/sitemap.html.gz
+Sitemap: https://deropedi.github.io/css/sitemap.html.gz
+Sitemap: https://deropedi.github.io/includes/sitemap.html.gz
+Sitemap: https://deropedi.github.io/item/sitemap.html.gz
+Sitemap: https://deropedi.github.io/src/sitemap.html.gz
